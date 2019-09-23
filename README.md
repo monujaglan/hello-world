@@ -88,3 +88,26 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 ## Everything you need to know about GitHub
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+# hello-world
+pwd
+ls
+ls -l
+ls -l bbb.txt
+echon -e Hello/t world
+man echo
+rm aaa.txt
+rm * .txt
+cat /bin/ls
+ls -lo
+rm music /*.*
+touch mlu.txt
+em *1*.txt
+ls -l
+ls -l *.txt
+cat Music/dd.txt
+history
+rm music/*.*
+ls -l/bin/ls
+cat aaa.txt
+touch rli.txt
+virtual --startvm xP
