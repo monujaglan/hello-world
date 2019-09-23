@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd RTR105_2019f$ ls-la
+    4  sudo apt-get install git
+    5  ls -l
+    6  chomd 744 git-upload
+    7  chmod 744 git-upload
+    8  ls -l
+    9  chmod 744 git-upload 
+   10  ls -l
+   11  ./git-upload 
+   12  nano git-upload 
+   13  ./git-upload 
+   14  git-upload
+   15  whereis git-upload
+   16  ls
+   17  whereis ls
+   18  ls -l /bin/ls
+   19  echo $PATH
+   20  PATH=$PATH:~/RTR105_2019f/
+   21  echo $PATH
+   22  WHEREIS git-upload
+   23  whereis git-upload
+   24  echo $PATH
+   25  ls -l
+   26  git-upload
+   27  history > history_20190923.txt
