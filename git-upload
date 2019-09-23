@@ -5,5 +5,6 @@ git config --global user.email jaglanmonu1998@gmail.com
 git add .
 #git commite .m "20171012_09_55"
 git commit -m $1
+git pull
 git push origin master
 fi
