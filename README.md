@@ -1,10 +1,10 @@
 #RTR105f
-Computer Studies (basic course) e-diary
-Ctrl+Alt+T allows to get terminal
+Computer Studies (basic course) e-diary  
+Ctrl+Alt+T allows to get terminal  
 toay we created a hello world on c language.To begin with the most important things to have in c code is "main(){}".Here are the commands in c language.   
-The code is written inside here{}.
-THE place for () is arugment
-all the command lines are end with;
+The code is written inside here{}.  
+THE place for () is arugment  
+all the command lines are end with;  
 ls list of check
 cd command of end
 cd -takes to the file
