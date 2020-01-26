@@ -1,0 +1,13 @@
+set title "STATISTICS"
+set xlabel "X-AXIS"
+set ylabel "Y-AXIS"
+
+set style line 1 lc rgb "red"
+set style line 2 lc rgb "blue"
+
+set style fill solid
+set boxwidth 0.2
+
+plot "stats.dat" every ::0::8 using 1:2:xtic(3) with boxes ls 1
+
+pause-1"HIT ANY KEY TO CONTINUE"
