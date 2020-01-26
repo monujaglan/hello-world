@@ -95,4 +95,4 @@ The start is at x = 1.26451 because (1 + x) * sinh(x) is 3.690
 As a result of executing the program, I found that the program correctly finds the value of x for the given function value.
 
 ### PICTURE
-![Function graph]()
+![Function graph](https://github.com/monujaglan/hello-world/blob/master/lab_work/2lw_Roots/finding%20roots.png)
