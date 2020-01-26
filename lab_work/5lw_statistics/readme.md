@@ -104,4 +104,4 @@ the symbols in alphabetical order correctly.
 
 ```
 ### PICTURE
-![Function graph]()
+![Function graph](https://github.com/monujaglan/hello-world/blob/master/lab_work/5lw_statistics/stats.png)
