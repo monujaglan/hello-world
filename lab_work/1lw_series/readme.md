@@ -99,4 +99,4 @@ R=                 -----------
 When I executed the code, I found that the results obtained with the Taylor series match the estimated value of the function.  
 
 ### PICTURE
-![Function graph]()
+![Function graph](https://github.com/monujaglan/hello-world/blob/master/lab_work/1lw_series/series.png)
